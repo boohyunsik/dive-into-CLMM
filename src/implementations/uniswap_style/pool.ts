@@ -1,7 +1,5 @@
 import {Pool} from "../../interface/pool";
-import {Token} from "../../entity/token";
 import {Position} from "../../entity/position";
-import {State} from "../../core/state";
 import {Logger} from "../../logger/logger";
 import {
     calculateAmount0Delta,
